@@ -193,7 +193,7 @@ These features collectively allow users to fetch, store, analyze, and visualize 
 ## Developer Guide:
 To run the app, follow these steps:
 
-    1. Clone the repository to your local machine using the command: `git clone [https://github.com/-Data-Scientist/Youtube_Data_Harvesting.git]`.
+    1. Clone the repository to your local machine using the command: `git clone [https://github.com/Vijayalakshmi-Indhuja/YouTube-Data-Harvesting-Warehousing-and-Visualization-Web-App]`.
     2. Install the required libraries by running: `pip install -r requirements.txt`.
     3. Set up a MongoDB Atlas account and obtain the connection details.
     4. Create a MySQL database and define the necessary tables using the provided SQL statements.
@@ -232,11 +232,7 @@ These applications demonstrate how the app can be utilized by content creators, 
 
 ## Web App Demo Video
 
-<a href="https://www.linkedin.com/posts/nirmal-kumar-data-scientist_youtubedata-dataharvesting-datawarehousing-activity-7068697509958742016-5yi2?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
-
-## Streamlit web URL
-
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://nirmal-data-scientist-youtube-data-harvesting.streamlit.app/)
+<a href="https://www.linkedin.com/posts/vijayalakshmikarunanithianithi_youtubedata-dataharvesting-datawarehousing-activity-7073391380382822401-Yh8R?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
 
 ## Disclaimer
 This application is intended for educational and research purposes only and should not be used for any commercial or unethical activities.
