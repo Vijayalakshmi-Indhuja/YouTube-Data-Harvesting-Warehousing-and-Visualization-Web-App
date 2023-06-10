@@ -27,9 +27,6 @@ Pandas is a popular Python library used for data manipulation and analysis. We u
 #### Visualization libraries such as Plotly, Altair, Matplotlib
 These visualization libraries in Python are used to create various charts, plots, and visualizations based on the fetched YouTube data. Plotly, Altair, and Matplotlib offer a wide range of options for visualizing data, making it easier to understand patterns, trends, and insights.
 
-#### Wordcloud
-Wordcloud is a Python library used to create visual representations of text data, where the size of each word is proportional to its frequency. In this project, the Wordcloud library is used to generate word clouds based on the tags or comments associated with the YouTube videos, providing a visual summary of the most commonly used terms.
-
 #### Pymongo
 pymongo is a Python library that provides tools for working with MongoDB databases. In this project, pymongo is used to establish a connection to the MongoDB Atlas database and perform operations such as inserting, updating, and querying data.
 
